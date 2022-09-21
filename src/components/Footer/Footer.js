@@ -6,7 +6,6 @@ function Footer() {
   return (
     <>
     <h1>{greeting}</h1>
-    <p>Soy el footer</p>
     </>
   );
 }

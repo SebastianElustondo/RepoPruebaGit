@@ -13,8 +13,6 @@ class Blog extends React.Component {
       comments: []
     };
 
-    // this.navigate = useNavigate();
-
     this.handleSubmit = this.handleSubmit.bind(this);
   }
   handleChange(event) {
