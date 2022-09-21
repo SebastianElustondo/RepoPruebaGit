@@ -12,6 +12,7 @@ import Home from './Exercises/Exercise4/Home/Home';
 
 
 function App() {
+  console.log("hola")
   return (
     <React.Fragment>
       <Router>
