@@ -43,10 +43,6 @@ class Blog extends React.Component {
     })
   }
 
-  // handleNavigate(){
-  //   this.navigate("/Home");
-  // }
-
   render() {
     return (
       <>
